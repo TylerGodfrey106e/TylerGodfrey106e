@@ -1,16 +1,13 @@
-### Hi there 👋
+##Tyler Godfrey
+###About
+- 🔭 I’m currently working on multiplayer web game
+- 🌱 I’m currently learning full stack development using MERN
+- 📫 How to reach me: tylergodfrey2@mail.weber.edu 
+- ⚡ Fun fact: I love boating and outdoors activities
 
-<!--
-**TylerGodfrey106e/TylerGodfrey106e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Languages and tools
+- react
+- Javascript 
+- C#, C++
+- html5, CSS
+- MERN
