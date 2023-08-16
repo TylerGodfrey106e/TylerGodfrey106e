@@ -12,6 +12,6 @@
 - html5, CSS
 - MERN
 
-- ###Recent Projects
+- ### Recent Projects
 - [Connect 4](https://github.com/TylerGodfrey106e/Connect4)
 - [Speed Card Game](https://github.com/TylerGodfrey106e/Redacted-Speed-Game)
