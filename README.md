@@ -14,7 +14,7 @@
 
 ## Recent Projects
 ### Connect 4
-![](Screenshots/connect4.png)  
+![](Screenshots/connect4.0.png)  
 Classic Connect 4 with a high scores page that connects to a database.  
 [Game Code](https://github.com/TylerGodfrey106e/Connect4)  
 ### Speed Card Game
