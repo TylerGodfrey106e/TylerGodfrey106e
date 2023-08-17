@@ -18,6 +18,6 @@
 Classic Connect 4 with a high scores page that connects to a database.  
 [Game Code](https://github.com/TylerGodfrey106e/Connect4)  
 ### Speed Card Game
-![](Screenshots/Screenshot%202023-08-16%20210244.png)  
+![](Screenshots/SpeedGame.png)  
 A multiplayer cardgame with login authentication, chat and rooms.  
 [Game Code](https://github.com/TylerGodfrey106e/Redacted-Speed-Game)  
